@@ -1,15 +1,11 @@
-Dr. Jaime Forero (CO) es astrofísico y profesor asistente en el Departamento de Física de la Universidad de los Andes. Estudió física 
-en la École Normale Supérieure en Paris y tiene un doctorado en Física de la École Normale Supériure de Lyon. Después de una primera 
-estancia postdoctoral en el Leibniz Instute for Astrophysics en Potsdam (Alemania), gano la beca Gruber en el 2011, otorgada por la 
-Unión Astronómica internacional, para investigar por un año en el Departamento de Astronomía de la Universidad de California en 
-Berkeley. Sus investigaciones giran en torno al estudio de las galaxias más jovenes observadas hasta ahora, la estructura a gran 
-escala del Universo y la formación de la Vía Láctea.
-
-Dr. Jaime Forero es astrofísico y profesor asistente en el Departamento de Física de la Universidad de los Andes. Estudió física 
-en la École Normale Supérieure en Paris y tiene un doctorado en Física 
-de la École Normale Supériure de Lyon. Hizo estancias postdoctoral en el Instituto Leibniz 
-de Astrofísica en Potsdam (Alemania) y en el departamento Astronomía de la Universidad de 
-California en  Berkeley. Sus investigaciones giran en torno al estudio de las galaxias más 
-jovenes observadas hasta ahora, la estructura a gran  escala del Universo y la formación de 
-la Vía Láctea. 
+Jaime Forero Romero es astrofísico y profesor asistente en el
+Departamento de Física de la Universidad de los Andes.  Estudió física
+en la École Normale Supérieure en Paris y tiene un doctorado en Física
+de la École Normale Supériure de  Lyon. Después de una primera
+estancia postdoctoral en el Instituto Leibniz de Astrofísica  en
+Potsdam (Alemania), recibió la beca Gruber en el 2011, otorgada por la
+Unión Astronómica internacional, para investigar en el Departamento de
+Astronomía de la Universidad de California en Berkeley. Su
+investigacion se centra en la aplicación de métodos computacionales
+para estudiar la formación de galaxias y cosmología. 
 
