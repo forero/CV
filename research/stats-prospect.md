@@ -16,7 +16,7 @@ Artículos y citaciones durante ese año; H-index. El período solamente compren
 
 ##Colaboraciones internacionales
 
-* Miembro del [DESI](http://desi.lbl.gov/), colaboración liderada por Berkeley National Laboratory desde
+* Miembro del [DESI](http://desi.lbl.gov/) (colaboración liderada por Berkeley National Laboratory) desde
   el 2014. DESI es un experimento de cosmología observacional. Entre el 2014 hasta el 2018 estamos en la 
   fase de construcción y diseño. En el 2018-2022 estaremos en la fase de ejecución.
 
