@@ -8,11 +8,11 @@ Artículos y citaciones durante ese año; H-index. El período solamente compren
 
 |Año |# pubs|# cites | h-index|
 |----|------|-------|-------|
-|2016| 1    | 67    | 10 |
-|2015| 2    | 162   | 10 |
-|2014| 6    | 116   | 9  |
-|2013| 6    | 69    | 7  |
 |2012| 2    | 46    | 4  |
+|2013| 6    | 69    | 7  |
+|2014| 6    | 116   | 9  |
+|2015| 2    | 162   | 10 |
+|2016| 1    | 67    | 10 |
 
 ##Colaboraciones internacionales
 
@@ -28,19 +28,25 @@ Dadas las condiciones actuales de financiamiento y tiempo para dedicarle a la in
 
 |Año |# pubs|# cites | h-index|
 |----|------|-------|-------|
-|2020| 5    | 260    | 15 |
-|2019| 5    | 240   | 14 |
-|2018| 4    | 220   | 13  |
+|2016| 3    | 180   | 11  
 |2017| 3    | 200    | 12  |
-|2016| 3    | 180   | 11  |
+|2018| 4    | 220   | 13  |
+|2019| 5    | 240   | 14 |
+|2020| 5    | 260    | 15 |
 
-Si tuviera posibilidades de mejor financiamiento para la contratación de un investigador postdoctoral dedicado a DESI y 
-un estudiante de posgrado dedicado totalmente a la investigación, la predicción más probable es:
+
+
+
+
+Si hubiera posibilidades en Colombia/Uniandes de obtener financiamiento para la contratación de un investigador postdoctoral dedicado a DESI y  un estudiante de posgrado dedicado totalmente a la investigación, la predicción más probable es: 
 
 |Año |# pubs|# cites | h-index|
 |----|------|-------|-------|
-|2020| 7    | 350    | 18 |
-|2019| 7    | 300   | 16 |
-|2018| 5    | 250   | 14  |
-|2017| 4    | 200    | 12  |
 |2016| 3    | 180   | 11  |
+|2017| 4    | 200    | 12  |
+|2018| 5    | 250   | 14  |
+|2019| 7    | 300   | 16 |
+|2020| 7    | 350    | 18 |
+
+
+
