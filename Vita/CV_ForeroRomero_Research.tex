@@ -45,6 +45,16 @@
 
 \titlespacing{\section}{0pt}{4pt}{4pt} % Spacing around sections
 
+
+
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+ 
+\pagestyle{fancy}
+\fancyhf{}
+ 
+\rfoot{Page \thepage \hspace{1pt} of \pageref{LastPage}}
+
 \begin{document}
 
 %\pagestyle{empty} % Removes page numbering
