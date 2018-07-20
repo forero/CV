@@ -1,139 +1,298 @@
-\documentclass[10pt]{article}
-\usepackage{hyperref}
-\textheight=25.5cm
-\textwidth=16.0cm
-\oddsidemargin=-0.5cm
-\topmargin=-2.0cm
-\pagenumbering{arabic}
-\bibliographystyle{unsrt}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Plasmati Graduate CV
+% LaTeX Template
+% Version 1.0 (24/3/13)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Alessandro Plasmati (alessandro.plasmati@gmail.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[a4paper,10pt]{article} % Default font size and paper size
+
+\usepackage{fontspec} % For loading fonts
+\defaultfontfeatures{Mapping=tex-text}
+%\setmainfont[SmallCapsFont = Fontin SmallCaps]{Fontin} % Main document font
+
+\usepackage{xunicode,xltxtra,url,parskip} % Formatting packages
+
+\usepackage[usenames,dvipsnames]{xcolor} % Required for specifying custom colors
+
+\usepackage[big]{layaureo} % Margin formatting of the A4 page, an alternative to layaureo can be \usepackage{fullpage}
+% To reduce the height of the top margin uncomment: \addtolength{\voffset}{-1.3cm}
+
+\usepackage{hyperref} % Required for adding links	and customizing them
+\definecolor{linkcolour}{rgb}{0,0.2,0.6} % Link color
+\hypersetup{colorlinks,breaklinks,urlcolor=linkcolour,linkcolor=linkcolour} % Set link colors throughout the document
+
+\usepackage{titlesec} % Used to customize the \section command
+\titleformat{\section}{\Large\scshape\raggedright}{}{0em}{}[\color{black} \titlerule] % Text formatting of sections
+
+\titleformat{\subsection}{\large\scshape\raggedright}{}{0em}{}[\color{black} \titlerule] % Text formatting of sections
+
+\titleformat{\subsubsection}{\scshape\raggedright}{}{0em}{} % Text formatting of sections
+
+
+\titlespacing{\section}{0pt}{4pt}{4pt} % Spacing around sections
+
+
+
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+ 
+\pagestyle{fancy}
+\fancyhf{}
+ 
+\rfoot{Page \thepage \hspace{1pt} of \pageref{LastPage}}
 
 \begin{document}
 
-\noindent
-\begin{center}
-\emph{{\bf Curriculum Vitae}}\\
-{{\Large\sc Jaime E. FORERO-ROMERO}}\\
-\emph{Last updated on September 7, 2015}\\
-\end{center}
-\begin{minipage}{0.4\textwidth}
-  \begin{flushleft}
-    Calle 18A\# 1 - 10\\
-    Bloque Ip, Of. 208\\
-    Universidad de los Andes\\
-    AA 4976, Bogot\'a, Colombia\\
-  \end{flushleft}
-\end{minipage}
-\begin{minipage}{0.6\textwidth}
-  \begin{flushright}
-    {\it Nationality:} Colombian\\
-    {\it Born:} October 14, 1981\\
-    {\it telephone:} (+571) 3394949, Ext. 5183\\
-    {\it email:} je.forero uniandes.edu.co\\    
-    \url{http://wwwprof.uniandes.edu.co/~je.forero/}\\
-    \url{http://github.com/forero}\\    
-  \end{flushright}
-\end{minipage}
-
-\vspace{5mm}
-
-
-\noindent{\Large\sc\bf Positions}\\
-\noindent\makebox[\linewidth]{\rule{\textwidth}{0.4pt}}%
-
-\noindent $\bullet$ Associate Professor, Physics Department, \emph{Universidad de los Andes (Colombia)}, 8/2015-present\\
-
-\noindent $\bullet$ Assistant Professor, Physics Department, \emph{Universidad de los Andes (Colombia)}, 8/2012-7/2015\\
-
-\noindent $\bullet$ Gruber Fellow, Astronomy Department, \emph{University of California, Berkeley (USA)}, 10/2011-7/2012\\
-
-\noindent $\bullet$  Postdoctoral Researcher, \emph{Leibniz Institute for
-  Astrophysics-Potsdam (AIP) (Germany)}, 10/2007-9/2011  \\  
+%\pagestyle{empty} % Removes page numbering
 
 
 
-\noindent{\Large\sc\bf Education}\\
-\noindent\makebox[\linewidth]{\rule{\textwidth}{0.4pt}}%
+%----------------------------------------------------------------------------------------
+%	PERSONAL INFORMATION
+%----------------------------------------------------------------------------------------
 
-\noindent$\bullet$\emph{\'Ecole Normale Sup\'erieure de Lyon (France)} (2005-2007)
+\par{\centering{\Huge \color{black}  Jaime E. FORERO-ROMERO} \bigskip\par} % Your name
 
-PhD in Physics, December 2007\\
-
-\noindent$\bullet$\emph{\'Ecole Normale Sup\'erieure (Ulm) (France)} (2003-2006)
-
-  \'El\`eve S\'election Internationale
-
-  M.Sc. in Physics (Magist\`ere Interuniversitaire), August 2005\\
-  
+\color{red}
+\section{Personal Information}
+\color{black}
 
 
-\noindent$\bullet$\emph{Instituto Balseiro (Argentina)} (2001-2003)
-
-  Undergraduate Physics studies (3$^{rd}$ and 4$^{th}$ year)\\
-
-\noindent$\bullet$\emph{Universidad Nacional de Colombia} (1999-2001)
-
-  Undergraduate Physics studies (1$^{st}$ and 2$^{nd}$ year)\\
-
-\noindent{\Large\sc\bf Honors and Awards}\\
-\noindent\makebox[\linewidth]{\rule{\textwidth}{0.4pt}}%
+\begin{tabular}{rl}
+\textsc{Email:} & \href{mailto:je.forero@uniandes.edu.co}{je.forero@uniandes.edu.co}\\
+\textsc{Personal Website:} & \url{http://wwwprof.uniandes.edu.co/~je.forero}\\
+\textsc{Group Website:} & \url{http://astroandes.github.io/}\\ 
+\textsc{Citizenship:} & Colombian\\
+\textsc{Birth Date:} & October 14, 1981\\
+\end{tabular}
 
 
-\noindent$\bullet$ 2011. International Astronomical Union / Peter and Patricia Gruber Foundation Fellowship\\
+%----------------------------------------------------------------------------------------
+%	EDUCATION
+%----------------------------------------------------------------------------------------
 
-\noindent$\bullet$ 2006-2007. Graduate Research Fellowship (Allocation Coupl\'ee) of the French Ministry for Research and Education.\\
-
-\noindent$\bullet$ 2003-2006. Scholarship at the \'Ecole Normale Sup\'erieure (Paris), covers tuition fees plus room and board to pursue graduate studies and PhD research. \\
-
-\noindent$\bullet$ 2001-2003. Undergraduate scholarship (covers tuition fees at the Instituto Balseiro plus room and board) from the Argentinian Atomic Energy
-  Comission. \\
-
-\noindent$\bullet$ 1999. Gold Medal in the National Chemistry Olympiad, Bogot\'a, Colombia (First Place, National Competition)\\
-
-
-\noindent{\Large\sc\bf Research Interests}\\
-\noindent\makebox[\linewidth]{\rule{\textwidth}{0.4pt}}%
-
-\noindent$\bullet$ Computational cosmology\\
-
-\noindent$\bullet$ Large scale structure of the Universe\\
-
-\noindent$\bullet$ Galaxy formation\\
+\color{red}
+\section{Research Interests}
+\color{black}
+\begin{itemize}
+\item{Cosmology} 
+\item{Galaxy Formation}
+\item{Computational Astrophysics}
+\end{itemize}
 
 
-
-\noindent{\Large\sc\bf Summary of Publication Record}\\
-\noindent\makebox[\linewidth]{\rule{\textwidth}{0.4pt}}%
-
-\noindent$\bullet$ 24 Refereed journal articles in astrophysics since the first article in 2007.\\
-
-\noindent$\bullet$ Total citations: 388. H-index: 10. (Source: Astrophysics Data System)\\
-
-\noindent$\bullet$ Total citations: 409. H-index: 11. (Source: Google Scholar)\\
+\color{red}
+\section{Education}
+\color{black}
 
 
-\noindent{\Large\sc\bf List of Significant Publications}\\
-\noindent\makebox[\linewidth]{\rule{\textwidth}{0.4pt}}%
+\begin{tabular}{rl}	
+\textsc{November 2007} & {\bf PhD. Physics}\\
+\textsc{August 2005}& at the \'Ecole Normale Sup\'erieure de Lyon (France) \\
+&\\
+\textsc{July 2005} & {\bf M.Sc.Physics (Magist\`ere Interuniversitaire)}\\  
+\textsc{August 2003}& at the \'Ecole Normale Sup\'erieure (Paris, France) \\
+&\\
+\textsc{July 2003} & {\bf Undergraduate Physics studies} (3$^{rd}$ \& 4$^{th}$ year)\\
+\textsc{August 2001} & at the Instituto Balseiro (Argentina)\\
+&\\
+\textsc{July 2001}  & {\bf Undergraduate Physics studies} (1$^{st}$ \& 2$^{nd}$ year)\\
+\textsc{July 1999}& at the U. Nacional de Colombia\\
+\end{tabular}
 
-\noindent$\bullet$ {\it A dynamical classification of the  cosmic web}.  {\bf Forero-Romero} J.E., Hoffman Y.,  Gottloeber S., Klypin A., Yepes G.,
-MNRAS, 396, 1815-1824, 2009\\
+\color{red}
+\section{Academic Positions}
+\color{black}
 
-\noindent$\bullet$ {\it A kinematic classification of the cosmic web},
-  Y. Hoffman, O. Metuki , G. Yepes, S. Gottloeber, {\bf
-    J. E. Forero-Romero}, N. I. Libeskind, A. Knebe, MNRAS, 425, 2049,
-  2012 \\
+\begin{tabular}{rl}	
+ \textsc{Present Day} &  {\bf Associate Professor}\\
+ \textsc{August 2015} & Physics Department, Universidad de los Andes (Colombia) \\
+& \\
+ \textsc{July 2015} &  {\bf Assistant Professor}\\
+ \textsc{August 2012} & Physics Department, Universidad de los Andes (Colombia) \\
+&\\
+ \textsc{July 2012} &  {\bf Gruber Fellow}\\
+ \textsc{October 2011} & Astronomy Department UC Berkeley (USA) \\
+&\\
+ \textsc{September 2011} &  {\bf Postdoctoral Researcher}\\
+ \textsc{September 2007} & Leibniz Insititute for Astrophysics at Potsdam(Germany) \\ 
+&\\
+ \textsc{August 2007} &  {\bf Graduate Student}\\
+ \textsc{August 2006} & \'Ecole Normale Sup\'erieure de Lyon (France)\\
+&\\
+ \textsc{July 2006} &  {\bf \'El\`eve}\\
+ \textsc{September 2003} & \'Ecole Normale Sup\'erieure (Paris, France)\\
+&\\
+ \textsc{August 2003} &  {\bf Undergraduate Fellow}\\
+ \textsc{August 2001} & Instituto Balseiro (Bariloche, Argentina)\\
+\end{tabular}
 
-\noindent$\bullet${\it The dark matter assembly of the Local Group in constrained cosmological   simulations of a $\Lambda$CDM universe} {\bf Forero-Romero} J.E.,  Hoffman Y., Yepes G., Gottl\"ober S., Piontek R., Klypin A., Steinmetz
-M.,  MNRAS, 417, 1434, 2011 \\
+\color{red}
+\section{Research}
+\color{black}
 
-\noindent$\bullet${\it {\tt CLARA}'s view on the escape fraction of Lyman-$\alpha$ photons in   high redshift galaxies} {\bf Forero-Romero} J.E., Yepes G., Gottl\"ober S., Knollmann S., Cuesta A., Prada F.,   MNRAS, 415, 3666, 2011\\
+\subsection{Bibliometrics}
+\begin{itemize}
+\item Refereed journal articles:  28 published + 3 submitted (since
+  first paper in 2007).
+\item Google Scholar statistics. Total Number of Citations: 916. H-index: 16.
+\item SAO/NASA Astrophysics Data System statistics. Total Number of
+  Citations: 733. H-index: 14. 
+\end{itemize}
 
-\noindent$\bullet${\it The MultiDark Database: Release of the Bolshoi and
-  MultiDark Cosmological Simulations} , K. Riebe , A. M. Partl,
-  H. Enke, {\bf J.E. Forero-Romero}, S. Gottloeber, A. Klypin,
-  G. Lemson, F. Prada, J. R. Primack, M. Steinmetz, V. Turchaninov,
-  Astronomische Nachrichten, 334, 691, 2013. \\
+
+\subsection{Selected Publications}
+\begin{itemize}
+
+\item {\it We are not the 99 percent: quantifying
+  asphericity in the distribution of Local Group satellites}, {\bf
+    J. E. Forero-Romero}, V. Arias,  MNRAS, 478, 5538, 2018.
+
+\item{\it The Local Group in the cosmic web}, {\bf
+  J.E. Forero-Romero}, R. Gonz\'alez, ApJ, 799, 1, 2015.
+
+\item{\it Cosmic web alignments with the shape, angular momentum
+  and peculiar velocities of dark matter halos}, 
+  {\bf J.E. Forero-Romero}, S. Contreras, N. Padilla, MNRAS, 443,
+  1090, 2014. 
+
+\item {\it Effects of Star Formation Stochasticity on the Ly
+  $alpha$ \& Lyman Continuum Emission from Dwarf Galaxies}, {\bf
+  J. E. Forero-Romero} \& M. Dijkstra, MNRAS 428, 2163, 2013 
+
+\item  {\it A Dynamical Classification of the  Cosmic Web}.  {\bf
+  Forero-Romero} J.E., Hoffman Y.,  Gottloeber S., Klypin A., Yepes
+  G., MNRAS, 396, 1815-1824, 2009   
+
+\end{itemize}
+
+\subsection{Grants}
+\begin{itemize}
+\item 2017-2021 (coPI) LACEGAL Latin American Chinese European GALaxy Formation network.
+Funded by MSCA-RISE - Marie Sklodowska-Curie Research and Innovation Staff Exchange (RISE). (1.5 MEuro)
+\item 2016-2019 (PI) COLCIENCIAS grant to work on the Dark
+  Energy Spectroscopic Instrument. (60 KUSD)
+\item 2012-2016 (PI) UNIANDES grant given as a startup package to
+assistant professors (25 KUSD).
+\item 2011-2012 (PI) IAU Peter and Patricia Gruber Foundation
+  Fellowship. (50K USD).
+\end{itemize}
+
+\color{red}
+\section{Mentoring}
+\color{black}
+
+%\subsection{ArXiv-Only Publications}
+\subsection{Postdocs}
+
+\begin{itemize}
+\item 2015-2016. Ver\'onica Arias. Dynamics of satellites in the
+  Local Group.  
+\end{itemize}
+
+\subsection{Graduate Students}
+
+\begin{itemize}
+
+\item 2016-2018 Jes\'us Prada.
+  Master thesis in Physics at Universidad de los Andes.
+\emph{Constraining the dark matter halo shape of the Milky Way with
+  numerical simulations.} 
+\item 2013-2015 Juan Nicol\'as Garavito Camargo. Master
+  thesis in Physics at Universidad de los Andes. \emph{The effect of
+    gas bulk rotation on the Lyman-alpha line}.
+\end{itemize}
 
 
+
+%\subsection{Talks}
+
+%\color{red}
+%\section{Teaching}
+%\color{black}
+%\subsection{Lectures at Los Andes University}
+%\subsection{Summer/Winter Schools}
+
+\newpage
+\color{red}
+\section{Service}
+\color{black}
+\subsection{Scientific Collaborations}
+
+\begin{tabular}{rl}	
+ \textsc{Present Day} &  Coordinator for the Andean Regional Office of  Astronomy for Development.\\
+ \textsc{October 2015} & \url{http://andean.astro4dev.org/}\\
+& \\
+ \textsc{Present Day} &  Full Member of the Dark Energy Spectroscopic Instrument.\\
+ \textsc{January 2014} & \url{http://desi.lbl.gov/}\\
+& \\ 
+\textsc{Present Day} & Referee for The Astrophysical Journal and \\
+\textsc{January 2010} & Monthly Notices for the Royal Astronomical
+Society\\
+\end{tabular}
+
+\subsection{Event Organizer}
+\begin{tabular}{rl}
+ \textsc{October 2015} &  Main organizer of the Second
+ \textit{Workshop Astronom\'ia en los Andes} \\
+   & to convene astronomers in the Andean region.  Held in Bogot\'a, Colombia.\\
+& \\
+ \textsc{June 2015} &  Main organizer for the 
+ \textit{Andean School on Cosmology} \\
+   & held in Bogot\'a, Colombia.\\
+& \\
+ \textsc{July 2013} &  Main organizer of the First
+ \textit{Workshop Astronom\'ia en los Andes} \\
+   & to convene astronomers in the Andean region.  Held in Bogot\'a, Colombia.\\
+& \\
+ \textsc{September 2011} &  Co-organizer of the international
+ conference \textit{Young and Bright:}\\
+ & \textit{understanding high redshigt structures}. Held in
+ Potsdam, Germany.\\ 
+& \\
+
+\end{tabular}
+
+
+\subsection{Guest Lecturer}
+\begin{tabular}{rl}
+ \textsc{July 2018} &  Lecturer for the
+ \textit{41st International School for Young Astronomers} \\
+   & to be held in Socorro, Colombia.\\
+& \\
+ \textsc{December 2015} &  Lecturer for the 
+ \textit{Second Guatemalan School of Astrophysics} \\
+   & held in Antigua, Guatemala.\\
+& \\
+ \textsc{June 2013} &  Lecturer for the 
+ \textit{Pan-American Advanced Studies Institutes (PASI)} \\
+   &  on Methods in Computation-Based Discovery.  Held in Guatemala City, Guatemala.\\
+& \\
+\textsc{July 2009} & Lecturer for the 
+\textit{Fifth Colombian School of Astronomy}\\
+& held in Bogot\'a, Colombia.\\
+
+\end{tabular}
+
+%\subsection{National Organizing Committees}
+%\subsection{International Refereeing}
+%\subsection{National Refereeing}
+%\subsection{Jury of Master/PhD Thesis}
+%\subsection{Public Talks}
 
 
 \end{document}
