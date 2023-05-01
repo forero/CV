@@ -23,6 +23,7 @@ mica
   * Cursos de educacion continua dictados por las personas que elegi en la convocatoria astronomica colombiana hecha en 2022-20:
     - Fundamentos en Astronomía Extragaláctica. https://educacioncontinua.uniandes.edu.co/es/programas/fundamentos-en-astronomia-extragalactica
     - Un viaje al interior de los agujeros negros. https://educacioncontinua.uniandes.edu.co/es/programas/un-viaje-al-interior-de-los-agujeros-negros
+  * Elegido como Builder de DESI. Aportes desde el 2013 al Dark Energy Spectroscopic Instrument.
 
 
 
