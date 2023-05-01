@@ -24,6 +24,7 @@ mica
     - Fundamentos en Astronomía Extragaláctica. https://educacioncontinua.uniandes.edu.co/es/programas/fundamentos-en-astronomia-extragalactica
     - Un viaje al interior de los agujeros negros. https://educacioncontinua.uniandes.edu.co/es/programas/un-viaje-al-interior-de-los-agujeros-negros
   * Elegido como Builder de DESI. Aportes desde el 2013 al Dark Energy Spectroscopic Instrument.
+  * Viernes 28 de Abril. Participación en el conversatorio en la Feria del Libro de Bogotá para la presentación del libro Ondas y Fluidos de Juan Pablo Salas y Yenny Hernández .
 
 
 
