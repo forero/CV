@@ -25,6 +25,7 @@ mica
     - Un viaje al interior de los agujeros negros. https://educacioncontinua.uniandes.edu.co/es/programas/un-viaje-al-interior-de-los-agujeros-negros
   * Elegido como Builder de DESI. Aportes desde el 2013 al Dark Energy Spectroscopic Instrument.
   * Viernes 28 de Abril. Participación en el conversatorio en la Feria del Libro de Bogotá para la presentación del libro Ondas y Fluidos de Juan Pablo Salas y Yenny Hernández .
+  * Sabado 6 de Mayo. Charla "Algoritmos Cosmicos", en el Picnic Uniandes, el evento de Scouting mas importante de la Uniandes.
 
 
 
