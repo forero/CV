@@ -1,6 +1,14 @@
 Bio (version 2023)
 
-Jaime E. Forero Romero (Bogotá, 1981) Máster en Física de la École Normale Supérieure en París (2005), Doctorado en Física de la École Normale Supérieure de Lyon (2007). Luego de su doctorado, fue investigador postdoctoral en el Instituto Leibniz de Astrofísica en Potsdam (Alemania) y en el Departamento de Astronomía de la Universidad de California en Berkeley, tras recibir la beca Gruber a un joven astrónomo por parte de la Unión Astronómica Internacional. Desde el 2012, es profesor de planta en el Departamento de Física de la Universidad de los Andes. Entre otros, ha sido investigador invitado en el Centro de Innovación de la Universidad Católica de Chile, el Instituto Coreano de Estudios Avanzados, el Instituto de Cosmología Computacional de la Universidad de Durham, el Instituto de Astronomía de la Universidad de Hawái y el Instituto Max Planck de Astrofísica.
+Jaime E. Forero Romero (Bogotá, 1981) Máster en Física de la École Normale Supérieure en París (2005), 
+Doctorado en Física de la École Normale Supérieure de Lyon (2007). Luego de su doctorado, 
+fue investigador postdoctoral en el Instituto Leibniz de Astrofísica en Potsdam (Alemania) 
+y en el Departamento de Astronomía de la Universidad de California en Berkeley, 
+tras recibir la beca Gruber a un joven astrónomo por parte de la Unión Astronómica Internacional. 
+Desde el 2012, es profesor de planta en el Departamento de Física de la Universidad de los Andes. 
+Entre otros, ha sido investigador invitado en el Centro de Innovación de la Universidad Católica de Chile, 
+el Instituto Coreano de Estudios Avanzados, el Instituto de Cosmología Computacional de la Universidad de Durham, 
+el Instituto de Astronomía de la Universidad de Hawái y el Instituto Max Planck de Astrofísica.
 
 
 Short Bio:
