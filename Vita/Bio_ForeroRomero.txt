@@ -1,21 +1,17 @@
-Bio Larga (2023).
-
-Jaime E. Forero Romero es un astrofísico y profesor de física en la Universidad de los Andes en Colombia. 
-Con una maestría en Física de la École Normale Supérieure en París y un doctorado en Física de la École 
-Normale Supérieure de Lyon (2007), ha llevado a cabo investigaciones postdoctorales en el Instituto Leibniz 
-de Astrofísica en Potsdam (2007-2011) y en la Universidad de California en Berkeley (2011-2012), donde 
-recibió la beca Gruber a jóvenes investigadores de la Unión Astronómica Internacional.
-
-Su investigación se centra en la formación de galaxias y la cosmología, utilizando métodos computacionales. 
-Actualmente, dedica la mayor parte de sus esfuerzos al apoyo del mapeo del universo mediante el 
-Dark Energy Spectroscopic Instrument (DESI), una colaboración internacional que investiga la enigmática 
-energía oscura y su impacto en la estructura a gran escala.
-
-Desde 2008, ha sido un impulsor activo del Congreso Colombiano de Astronomía y Astrofísica,  promoviendo 
-el intercambio académico en su país y la región.  En 2016, contribuyó a fundar y coordinar la 
-Oficina Regional Andina de Astronomía para el Desarrollo,  apoyada por la Unión Astronómica Internacional. 
-Además, Forero es un apasionado divulgador de la astronomía y ha colaborado con artistas para explorar 
-las conexiones entre el arte, la historia y la astrofísica. 
+Bio Larga (LARIM 2023).
+Jaime E. Forero Romero es un astrofísico y profesor de física en la Universidad de los Andes. 
+Luego de una maestría en Física en la École Normale Supérieure en París y un doctorado en Física de la 
+École Normale Supérieure de Lyon, hizo investigaciones postdoctorales en el Instituto Leibniz de Astrofísica 
+en Potsdam y en la Universidad de California en Berkeley, donde recibió la beca Gruber de la Unión Astronómica 
+Internacional. Su enfoque de investigación se centra en la formación de galaxias y la cosmología, utilizando 
+métodos computacionales. Actualmente, se dedica principalmente al apoyo del mapeo del universo a través del 
+Dark Energy Spectroscopic Instrument (DESI), una colaboración internacional que estudia la energía oscura 
+y su impacto en la estructura cósmica. Desde 2008, ha sido un impulsor activo del Congreso Colombiano de 
+Astronomía y Astrofísica, promoviendo el intercambio académico en su país y la región. 
+En 2016, contribuyó a fundar y coordinar la  Oficina Regional Andina de Astronomía para el Desarrollo,  
+apoyada por la Unión Astronómica Internacional. 
+También es un entusiasta divulgador de la astronomía y ha colaborado con artistas para explorar las conexiones 
+entre el arte, la historia y la astrofísica. 
 
 Bio (version 2023)
 
