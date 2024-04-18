@@ -13,16 +13,18 @@ Maestria
 Pregrado
 ========
 
-* [17] 2022, [Structural analysis of massive protoclusters formed from cloud collision](https://repositorio.uniandes.edu.co/entities/publication/650e82cb-36f0-4ea1-a60f-ffc1f8b878e0),  García Alvarado, María Valentina 
-* [16] 2021, [Detección de supercúmulos de galaxias a partir del flujo de velocidades a gran escala](https://repositorio.uniandes.edu.co/entities/publication/b162eb39-84b7-415d-9bef-c30f17d1b308), Peñaranda Rivera, José David 
-* [15] 2020, [Midiendo la complejidad de la red cósmica](https://repositorio.uniandes.edu.co/entities/publication/fd80ead3-570b-432e-acad-f17a3e45a726), Torres Guarín, Diego Andrés 
-* [14] 2020, [Análisis geométrico de vacíos cósmicos para la acotación de parámetros cosmológicos](https://repositorio.uniandes.edu.co/entities/publication/d0702050-e694-4f5d-be5b-7564122a9f54), Córdoba Caycedo, Carlos Miguel
-* [13] 2019, [Recovery of DESI BGS redshift measurements using machine learning](https://repositorio.uniandes.edu.co/entities/publication/c5e22d3f-9a2e-4d9a-87d4-11fb05afbcb0),  Lobo Bolaño, Sergio David 
-* [12] 2019, [Orbits of black holes in galactic triaxial potentials](https://repositorio.uniandes.edu.co/entities/publication/be19d642-d4fd-4848-b395-9861e07e400b),  Barbosa Coy, Juan Sebastián 
-* [11] 2019, [Aprendizaje automatizado para clasificación y estimación de corrimiento al rojo de espectros astrofísicos](https://repositorio.uniandes.edu.co/entities/publication/4685d2c4-8f9a-4fb7-a7e1-8bb5f0a5829b), Saavedra Alfonso, Jairo Andrés
-* [10] 2018, [Supercluster characterization in cosmological simulations](https://repositorio.uniandes.edu.co/entities/publication/351499b0-987a-4eb7-b6c5-3dafdd5a774d),  Paipa León, David Leonardo 
-* [9] 2018, [Simulating collisional dark matter using a Lattice Boltzmann method](https://repositorio.uniandes.edu.co/entities/publication/55c251ea-c814-47f0-b507-ae5f293d0080), Acevedo Barroso, Javier Alejandro
-* [8] 2018, [Influencia de la red cósmica en la dinámica de halos de materia oscura](https://repositorio.uniandes.edu.co/entities/publication/1e2abbe6-79d2-40c9-8164-ecead7ce6ffa),  Sanabria Ordóñez, Sebastián Camilo 
+* [19] 2022, [Structural analysis of massive protoclusters formed from cloud collision](https://repositorio.uniandes.edu.co/entities/publication/650e82cb-36f0-4ea1-a60f-ffc1f8b878e0),  García Alvarado, María Valentina 
+* [18] 2021, [Detección de supercúmulos de galaxias a partir del flujo de velocidades a gran escala](https://repositorio.uniandes.edu.co/entities/publication/b162eb39-84b7-415d-9bef-c30f17d1b308), Peñaranda Rivera, José David
+* [17] 2020, [Real astronomical transient object detection and classification using simulated light curves and real image sequences with machine learning](https://repositorio.uniandes.edu.co/entities/publication/6e6c3d40-be85-43c3-8065-ae8a822db86b),  Neira Giraldo, Mauricio 
+* [16] 2020, [Midiendo la complejidad de la red cósmica](https://repositorio.uniandes.edu.co/entities/publication/fd80ead3-570b-432e-acad-f17a3e45a726), Torres Guarín, Diego Andrés 
+* [15] 2020, [Análisis geométrico de vacíos cósmicos para la acotación de parámetros cosmológicos](https://repositorio.uniandes.edu.co/entities/publication/d0702050-e694-4f5d-be5b-7564122a9f54), Córdoba Caycedo, Carlos Miguel
+* [14] 2019, [Recovery of DESI BGS redshift measurements using machine learning](https://repositorio.uniandes.edu.co/entities/publication/c5e22d3f-9a2e-4d9a-87d4-11fb05afbcb0),  Lobo Bolaño, Sergio David 
+* [13] 2019, [Orbits of black holes in galactic triaxial potentials](https://repositorio.uniandes.edu.co/entities/publication/be19d642-d4fd-4848-b395-9861e07e400b),  Barbosa Coy, Juan Sebastián 
+* [12] 2019, [Aprendizaje automatizado para clasificación y estimación de corrimiento al rojo de espectros astrofísicos](https://repositorio.uniandes.edu.co/entities/publication/4685d2c4-8f9a-4fb7-a7e1-8bb5f0a5829b), Saavedra Alfonso, Jairo Andrés
+* [11] 2018, [Supercluster characterization in cosmological simulations](https://repositorio.uniandes.edu.co/entities/publication/351499b0-987a-4eb7-b6c5-3dafdd5a774d),  Paipa León, David Leonardo 
+* [10] 2018, [Simulating collisional dark matter using a Lattice Boltzmann method](https://repositorio.uniandes.edu.co/entities/publication/55c251ea-c814-47f0-b507-ae5f293d0080), Acevedo Barroso, Javier Alejandro
+* [9] 2018, [Influencia de la red cósmica en la dinámica de halos de materia oscura](https://repositorio.uniandes.edu.co/entities/publication/1e2abbe6-79d2-40c9-8164-ecead7ce6ffa),  Sanabria Ordóñez, Sebastián Camilo
+* [8] 2017, [Astronomical transient event recognition with machine learning](https://repositorio.uniandes.edu.co/entities/publication/d5634f0a-6930-41d6-9aa8-a555bff75a7f),  Gómez Mosquera, Diego Alejandro 
 * [7] 2017, [Simulaciones de un fluido débilmente auto-interactuante con métodos Lattice-Boltzmann](https://repositorio.uniandes.edu.co/entities/publication/fd84274b-b9d3-4e59-888c-c2da39609e09), Franco Ulloa, Sebastián
 * [6] 2017, [Observational evidence of star formation stochasticity in the CALIFA dataset](https://repositorio.uniandes.edu.co/entities/publication/2c6a0772-82d2-4ba7-9740-18acec38967b),  Romero Díaz, Nicolás
 * [5] 2016, [Laniakea in a cosmological context or detection of galaxy superclusters in simulated cosmological structures](https://repositorio.uniandes.edu.co/entities/publication/cfd9c3e5-f9c8-43e8-8ed0-25c4fcdf3bf4),  Hernández Charpak, Sergio Daniel 
